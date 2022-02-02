@@ -1,0 +1,16 @@
+#addMemberButton {
+  margin-bottom: 10px;
+}
+
+.member_actions {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.edit {
+  color: #0000ff
+}
+
+.delete {
+  color: #ff0000;
+}
